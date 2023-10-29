@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7C6E2BEA2AEB6ECD00D934D0 /* CoreDataRelationsBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6E2BE92AEB6ECD00D934D0 /* CoreDataRelationsBootCampApp.swift */; };
-		7C6E2BEC2AEB6ECD00D934D0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6E2BEB2AEB6ECD00D934D0 /* ContentView.swift */; };
 		7C6E2BEE2AEB6ECE00D934D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C6E2BED2AEB6ECE00D934D0 /* Assets.xcassets */; };
 		7C6E2BF12AEB6ECE00D934D0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C6E2BF02AEB6ECE00D934D0 /* Preview Assets.xcassets */; };
 		7C6E2BFA2AEB702A00D934D0 /* CoreDataRelationshipsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6E2BF92AEB702A00D934D0 /* CoreDataRelationshipsBootcamp.swift */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		7C6E2BE62AEB6ECD00D934D0 /* CoreDataRelationsBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataRelationsBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C6E2BE92AEB6ECD00D934D0 /* CoreDataRelationsBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationsBootCampApp.swift; sourceTree = "<group>"; };
-		7C6E2BEB2AEB6ECD00D934D0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7C6E2BED2AEB6ECE00D934D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C6E2BF02AEB6ECE00D934D0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7C6E2BF92AEB702A00D934D0 /* CoreDataRelationshipsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBootcamp.swift; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				7C6E2BF92AEB702A00D934D0 /* CoreDataRelationshipsBootcamp.swift */,
-				7C6E2BEB2AEB6ECD00D934D0 /* ContentView.swift */,
 			);
 			path = VIEWS;
 			sourceTree = "<group>";
@@ -161,7 +158,6 @@
 			files = (
 				7C6E2BFD2AEB77CE00D934D0 /* CoreDataContainer.xcdatamodeld in Sources */,
 				7C6E2BFA2AEB702A00D934D0 /* CoreDataRelationshipsBootcamp.swift in Sources */,
-				7C6E2BEC2AEB6ECD00D934D0 /* ContentView.swift in Sources */,
 				7C6E2BEA2AEB6ECD00D934D0 /* CoreDataRelationsBootCampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

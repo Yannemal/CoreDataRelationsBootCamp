@@ -1,0 +1,23 @@
+{
+  "entitiesPositions" : {
+    "BusinessEntity" : [
+      47,
+      615
+    ],
+    "EmployeeEntity" : [
+      194,
+      442
+    ],
+    "Canvas...Position" : [
+      -43,
+      134
+    ],
+    "DepartmentEntity" : [
+      360,
+      614
+    ]
+  },
+  "information" : {
+    "selectedModelKey" : "CoreDataContainer.xcdatamodel"
+  }
+}
